@@ -1,5 +1,5 @@
 # Makers_2023
-A basic mullti client chat room server created using socket programming in python.
+A basic multi-client chat room server created using socket programming in python.
 
 To run the project, download both the server.py and client.py
 
